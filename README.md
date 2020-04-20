@@ -17,3 +17,6 @@ Asked to create new modifications to the PlanMyTrip app.
 How many cities have recorded rainfall or snow?
 
 There are 119 cities with recorded rainfall or snow.
+
+### Challenge Images
+challenge_data/WeatherPy_vacation_map.png
