@@ -8,6 +8,6 @@ Asked to create new modifications to the PlanMyTrip app.
 3. Create a travel itinerary.
 
 ## Resources Used
--Data Source: WeatherPy_challenge.csv, WeatherPy_vacation.csv
--Software: Python 3.7, OpenWeatherMap API
+  -Data Source: WeatherPy_challenge.csv, WeatherPy_vacation.csv
+  -Software: Python 3.7, OpenWeatherMap API
 
