@@ -10,4 +10,10 @@ Asked to create new modifications to the PlanMyTrip app.
 ## Resources Used
 
   Data Source: WeatherPy_challenge.csv, WeatherPy_vacation.csv
+  
   Software: Python 3.7, OpenWeatherMap API
+  
+## Challenge Question
+How many cities have recorded rainfall or snow?
+
+There are 119 cities with recorded rainfall or snow.
